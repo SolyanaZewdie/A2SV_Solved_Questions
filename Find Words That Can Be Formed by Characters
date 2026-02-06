@@ -1,0 +1,23 @@
+class Solution(object):
+    def countCharacters(self, words, chars):
+        """
+        :type words: List[str]
+        :type chars: str
+        :rtype: int
+        """
+        from collections import Counter
+        
+        char_count = Counter(chars)
+        total_length = 0
+        
+        for word in words:
+            word_count = Counter(word)
+            can_form = True
+            for c in word_count:
+                if word_count[c] > char_count.get(c, 0):
+                    can_form = False
+                    break
+            if can_form:
+                total_length += len(word)
+        
+        return total_length
