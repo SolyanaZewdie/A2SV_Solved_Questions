@@ -1,22 +1,17 @@
-class Solution {
-public:
-    string longestCommonPrefix(vector<string>& strs) {
-        if (strs.empty()) return "";
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: str
+        """
+        if not strs:
+            return ""
 
-        string prefix = "";
+        prefix = strs[0]
 
-        for (int i = 0; i < strs[0].size(); i++) {
-            char currentChar = strs[0][i];
-
-            for (int j = 1; j < strs.size(); j++) {
-                if (i >= strs[j].size() || strs[j][i] != currentChar) {
-                    return prefix;
-                }
-            }
-
-            prefix += currentChar;
-        }
-
-        return prefix;
-    }
-};
+        for word in strs[1:]:
+            while not word.startswith(prefix):
+                prefix = prefix[:-1]
+                if prefix == "":
+                    return ""
+        return prefix
