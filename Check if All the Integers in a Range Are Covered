@@ -1,21 +1,17 @@
-class Solution {
-public:
-    bool isCovered(vector<vector<int>>& ranges, int left, int right) {
-        for (int x = left; x <= right; x++) {
-            bool covered = false;
-
-            for (auto& r : ranges) {
-                if (r[0] <= x && x <= r[1]) {
-                    covered = true;
-                    break;
-                }
-            }
-
-            if (!covered) {
-                return false;
-            }
-        }
-
-        return true;
-    }
-};
+class Solution(object):
+    def isCovered(self, ranges, left, right):
+        """
+        :type ranges: List[List[int]]
+        :type left: int
+        :type right: int
+        :rtype: bool
+        """
+        for x in range(left, right + 1):
+            covered = False
+            for start, end in ranges:
+                if start <= x <= end:
+                    covered = True
+                    break
+            if not covered:
+                return False
+        return True
