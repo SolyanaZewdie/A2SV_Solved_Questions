@@ -1,0 +1,10 @@
+class Solution:    
+    def findUnion(self, a, b):
+        union_set = set()
+        
+        for x in a:
+            union_set.add(x)
+        for x in b:
+            union_set.add(x)
+        
+        return list(union_set)
