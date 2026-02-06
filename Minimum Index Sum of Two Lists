@@ -1,0 +1,20 @@
+class Solution(object):
+    def findRestaurant(self, list1, list2):
+        """
+        :type list1: List[str]
+        :type list2: List[str]
+        :rtype: List[str]
+        """
+        min_sum = float('inf')
+        result = []
+
+        for i, s1 in enumerate(list1):
+            for j, s2 in enumerate(list2):
+                if s1 == s2:  
+                    index_sum = i + j
+                    if index_sum < min_sum:
+                        min_sum = index_sum
+                        result = [s1]  
+                    elif index_sum == min_sum:
+                        result.append(s1)
+        return result
