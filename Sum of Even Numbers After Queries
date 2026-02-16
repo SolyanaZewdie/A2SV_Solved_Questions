@@ -6,18 +6,24 @@ class Solution(object):
         :rtype: List[int]
         """
         answer = []
+        even_sum = 0
+        
+        for num in nums:
+            if num % 2 == 0:
+                even_sum += num
         
         for query in queries:
             val = query[0]
             index = query[1]
             
+            if nums[index] % 2 == 0:
+                even_sum -= nums[index]
+            
             nums[index] += val
             
-            total = 0
-            for num in nums:
-                if num % 2 == 0:
-                    total += num
+            if nums[index] % 2 == 0:
+                even_sum += nums[index]
             
-            answer.append(total)
+            answer.append(even_sum)
         
         return answer
