@@ -1,0 +1,39 @@
+class FrequencyTracker(object):
+
+    def __init__(self):
+        self.number_count = {}
+        self.freq_count = {}
+
+    def add(self, number):
+        old_freq = self.number_count.get(number, 0)
+        
+        if old_freq > 0:
+            self.freq_count[old_freq] -= 1
+        
+        new_freq = old_freq + 1
+        self.number_count[number] = new_freq
+        
+        if new_freq not in self.freq_count:
+            self.freq_count[new_freq] = 0
+        
+        self.freq_count[new_freq] += 1
+
+    def deleteOne(self, number):
+        if number not in self.number_count:
+            return
+        
+        old_freq = self.number_count[number]
+        self.freq_count[old_freq] -= 1
+        
+        new_freq = old_freq - 1
+        
+        if new_freq == 0:
+            del self.number_count[number]
+        else:
+            self.number_count[number] = new_freq
+            if new_freq not in self.freq_count:
+                self.freq_count[new_freq] = 0
+            self.freq_count[new_freq] += 1
+
+    def hasFrequency(self, frequency):
+        return self.freq_count.get(frequency, 0) > 0
