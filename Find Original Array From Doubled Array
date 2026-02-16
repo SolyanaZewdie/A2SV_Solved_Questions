@@ -1,0 +1,30 @@
+class Solution(object):
+    def findOriginalArray(self, changed):
+        """
+        :type changed: List[int]
+        :rtype: List[int]
+        """
+        if len(changed) % 2 != 0:
+            return []
+        
+        changed.sort()
+        result = []
+        counts = {}
+        
+        for num in changed:
+            if num in counts:
+                counts[num] += 1
+            else:
+                counts[num] = 1
+        
+        for num in changed:
+            if counts[num] == 0:
+                continue
+            doubled = num * 2
+            if doubled not in counts or counts[doubled] == 0:
+                return []
+            result.append(num)
+            counts[num] -= 1
+            counts[doubled] -= 1
+        
+        return result
