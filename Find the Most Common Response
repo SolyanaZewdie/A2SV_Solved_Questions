@@ -1,0 +1,22 @@
+class Solution(object):
+    def findCommonResponse(self, responses):
+        """
+        :type responses: List[List[str]]
+        :rtype: str
+        """
+        frequency = {}
+        
+        for day in responses:
+            unique = set(day)
+            for word in unique:
+                frequency[word] = frequency.get(word, 0) + 1
+        
+        max_count = 0
+        answer = ""
+        
+        for word in frequency:
+            if frequency[word] > max_count or (frequency[word] == max_count and word < answer):
+                max_count = frequency[word]
+                answer = word
+        
+        return answer
