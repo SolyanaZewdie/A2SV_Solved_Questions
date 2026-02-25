@@ -7,14 +7,20 @@ class Solution(object):
         if not points:
             return 0
         
-        points.sort(key=lambda x: x[1])
+        points.sort()
         
-        arrows = 1
-        end = points[0][1]
+        arrows = 0
+        i = 0
+        n = len(points)
         
-        for i in range(1, len(points)):
-            if points[i][0] > end:
-                arrows += 1
-                end = points[i][1]
+        while i < n:
+            arrows += 1
+            end = points[i][1]
+            i += 1
+            
+            while i < n and points[i][0] <= end:
+                if points[i][1] < end:
+                    end = points[i][1]
+                i += 1
         
         return arrows
