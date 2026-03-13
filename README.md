@@ -82,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 <!---LeetCode Topics End-->
