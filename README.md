@@ -26,6 +26,7 @@
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,10 +39,12 @@
 | [0328-odd-even-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
