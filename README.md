@@ -10,6 +10,7 @@
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
+| [1029-two-city-scheduling](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -91,6 +92,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Matrix
@@ -102,6 +104,7 @@
 | ------- | ------- |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
+| [1029-two-city-scheduling](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Monotonic Stack
