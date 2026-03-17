@@ -12,6 +12,7 @@
 | [0860-lemonade-change](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -125,4 +127,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
