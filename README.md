@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0390-elimination-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Prefix Sum
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
+| [0390-elimination-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Counting
