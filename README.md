@@ -155,4 +155,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
