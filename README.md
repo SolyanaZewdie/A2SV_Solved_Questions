@@ -18,6 +18,7 @@
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@
 | [0206-reverse-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -78,6 +81,7 @@
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -131,6 +135,7 @@
 | [0050-powx-n](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0390-elimination-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
