@@ -166,12 +166,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -183,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -193,6 +196,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
