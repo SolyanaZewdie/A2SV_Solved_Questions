@@ -12,6 +12,7 @@
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0739-daily-temperatures](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -40,6 +41,7 @@
 | [0394-decode-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -141,6 +143,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
