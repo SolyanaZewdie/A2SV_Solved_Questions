@@ -35,6 +35,7 @@
 | [0394-decode-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -241,4 +242,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 <!---LeetCode Topics End-->
