@@ -197,6 +197,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -272,4 +273,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
