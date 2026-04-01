@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -197,6 +198,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 ## Tree
