@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -249,12 +250,14 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0077-combinations](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
+| [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
