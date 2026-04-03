@@ -10,6 +10,7 @@
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0275-h-index-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0330-patching-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
@@ -200,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0275-h-index-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
