@@ -20,6 +20,7 @@
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1029-two-city-scheduling](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -201,6 +202,7 @@
 | [0035-search-insert-position](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
