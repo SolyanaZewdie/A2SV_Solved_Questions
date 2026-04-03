@@ -15,6 +15,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0330-patching-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -128,10 +129,12 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [1029-two-city-scheduling](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -206,6 +209,7 @@
 | [0275-h-index-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
