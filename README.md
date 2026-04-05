@@ -31,6 +31,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -265,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -273,6 +275,7 @@
 | [0077-combinations](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +285,7 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,4 +294,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 <!---LeetCode Topics End-->
