@@ -44,6 +44,7 @@
 | [0856-score-of-parentheses](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@
 | [0856-score-of-parentheses](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
@@ -153,6 +155,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +279,7 @@
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
