@@ -16,6 +16,7 @@
 | [0330-patching-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -125,6 +126,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -270,6 +272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Backtracking
@@ -278,6 +281,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0077-combinations](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1849-splitting-a-string-into-descending-consecutive-values/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
