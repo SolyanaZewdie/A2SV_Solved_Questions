@@ -33,6 +33,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -221,6 +222,7 @@
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
