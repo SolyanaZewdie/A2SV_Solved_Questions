@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0051-n-queens](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
@@ -287,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0051-n-queens](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
