@@ -293,6 +293,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
