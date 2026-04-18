@@ -14,6 +14,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0275-h-index-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0330-patching-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
@@ -141,6 +142,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Sorting
@@ -225,6 +227,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0275-h-index-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -284,6 +287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0645-set-mismatch](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
