@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0275-h-index-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -150,6 +151,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0645-set-mismatch](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
@@ -210,6 +212,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Ordered Set
@@ -285,6 +288,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -330,4 +334,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
