@@ -44,6 +44,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## String
@@ -225,6 +226,7 @@
 | [0456-132-pattern](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +300,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,12 +353,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 <!---LeetCode Topics End-->
