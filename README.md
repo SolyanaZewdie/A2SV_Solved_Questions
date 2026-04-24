@@ -28,6 +28,7 @@
 | [0641-design-circular-deque](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0645-set-mismatch](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0739-daily-temperatures](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
@@ -142,6 +143,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
+| [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -259,6 +261,7 @@
 | [0437-path-sum-iii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Depth-First Search
@@ -269,6 +272,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## String Matching
@@ -295,6 +299,7 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
