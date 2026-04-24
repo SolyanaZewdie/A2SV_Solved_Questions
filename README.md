@@ -43,6 +43,7 @@
 | [1598-crawler-log-folder](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
@@ -205,6 +206,7 @@
 | [0781-rabbits-in-forest](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 ## Counting
@@ -275,6 +277,7 @@
 | [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +304,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,4 +377,12 @@
 | ------- | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
