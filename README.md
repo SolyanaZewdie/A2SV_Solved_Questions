@@ -275,6 +275,7 @@
 | [0437-path-sum-iii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -303,6 +304,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Divide and Conquer
@@ -380,9 +382,14 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
