@@ -13,6 +13,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0275-h-index-ii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
@@ -172,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Greedy
@@ -271,6 +273,7 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -302,6 +305,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0690-employee-importance](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -391,5 +395,6 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
