@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0051-n-queens](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
@@ -142,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
