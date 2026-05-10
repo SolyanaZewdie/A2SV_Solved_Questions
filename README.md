@@ -293,6 +293,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +325,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +409,7 @@
 | [0785-is-graph-bipartite](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,4 +428,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SolyanaZewdie/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 <!---LeetCode Topics End-->
